@@ -288,6 +288,7 @@ body {
     font-weight: 400;
     line-height: 24px;
     margin: 12px 0;
+    gap: 12px;
 }
 
 .al-news-description {
