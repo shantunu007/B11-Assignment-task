@@ -17,7 +17,7 @@ body {
 
 .banner {
     background-color: #C6E4D6;
-    width: 1280px;
+    width: 1351px;
     margin: 160px auto;
     border-radius: 24px;
     display: flex;
@@ -64,3 +64,110 @@ body {
     margin-right: 60px;
 }
 
+/* future vision section styles */
+
+.future-vision {
+    margin: 0 auto;
+    width: 1351px;
+}
+
+.future-vision-title {
+    color: #0E0E0E;
+    font-size: 40px;
+    font-weight: 700px;
+}
+
+.future-vision-description {
+    color: #0E0E0E;
+    opacity: 0.7;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
+
+.vision-card-content {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+.vision-card-content .card-1 {
+    padding: 32px;
+    border-radius: 16px;
+    box-sizing: border-box;
+    background: rgba(84, 144, 245, 0.2);
+}
+
+.vision-card-content .card-2 {
+    padding: 32px;
+    background-color: #C6E4D6;
+    border-radius: 16px;
+}
+.vision-card-content .card-3 {
+    padding: 32px;
+    background-color: #F7EBCF;
+    border-radius: 16px;
+}
+
+ /* vision card styles */
+
+.card-title {
+    color: #0E0E0E;
+    opacity: 0.8;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 24px;
+    margin-bottom: 12px;
+}
+
+
+ .card-description-1, .card-description-2, .card-description-3 {
+    color: #0E0E0E;
+    opacity: 0.7;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 24px;
+    width: 356px;
+}
+.card-description-2 {
+    margin-bottom: 48px;
+}
+.card-description-3 {
+    margin-bottom: 48px;
+}
+
+.card-description-3 {
+    width: 365px;
+}
+
+.learn-btn {
+    padding: 11px 20px;
+    border-radius: 8px;
+    background-color: #5490F5;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.learn-btn-2 {
+    padding: 11px 20px;
+    border-radius: 8px;
+    background-color: #09A15C;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+}
+.learn-btn-3 {
+    padding: 11px 20px;
+    border-radius: 8px;
+    background-color: #FFC239;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+}
