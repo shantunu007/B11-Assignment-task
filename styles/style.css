@@ -151,6 +151,7 @@ body {
     color: #fff;
     font-size: 16px;
     font-weight: 600;
+    cursor: pointer;
 }
 
 .learn-btn-2 {
@@ -161,6 +162,7 @@ body {
     color: #fff;
     font-size: 16px;
     font-weight: 600;
+    cursor: pointer;
 }
 .learn-btn-3 {
     padding: 11px 20px;
@@ -170,4 +172,48 @@ body {
     color: #fff;
     font-size: 16px;
     font-weight: 600;
+    cursor: pointer;
+}
+
+/* about chief advisor styles */
+
+/* .secondary-bg {
+    background-image: url("../images/quote-bg.png");
+    background-position: top left;
+} */
+
+.about-chief-advisor {
+    padding: 48px 24px;
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    margin-top: 32px;
+    background: rgb(255, 255, 255);
+    background-image: url("../images/quote-bg.png");
+    background-repeat: no-repeat;
+    background-position-x: 27px;
+    background-position-y: 22px;
+}
+
+.about-description {
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.advisor-name {
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    margin-top: 12px;
+    margin-bottom: 4px;
+}
+
+.advisor-position {
+    color: rgba(14, 14, 14, 0.6);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
 }
