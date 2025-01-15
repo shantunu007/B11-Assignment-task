@@ -564,6 +564,17 @@ body {
     .read-more-btn {
         font-size: 15px;
     }
+
+    .about-description {
+        font-size: 14px;
+    }
+
+    .about-chief-advisor {
+        background-size: 50px 50px;
+        background-position-x: 48px;
+        background-position-y: 30px;
+        padding: 48px 47px;
+    }
 }
 
 
