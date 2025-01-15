@@ -536,6 +536,10 @@ body {
         width: 50%;
         height: 48px;
     }
+    .box-money:hover {
+        transform: scale(1);
+        transition: 0.3s;
+    }
 }
 
 
